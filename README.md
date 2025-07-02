@@ -5,7 +5,7 @@ class="home-link" rel="home" title="Galactic Gazette">Home</a>
 
 <a
 href="https://web.archive.org/web/20150523035213/https://altbibl.io/gazette/on-archives-libraries-and-astrology/"
-class="source-link" rel="source" title="On archives, library and... astrology">Home</a>
+class="source-link" rel="source" title="On archives, library and... astrology">Source</a>
 
 From February 9<sup>th</sup> to May 10<sup>th</sup> 2015 I had the
 wonderful opportunity to be a fellow at the Harvard-Smithsonian Center

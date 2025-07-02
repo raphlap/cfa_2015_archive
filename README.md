@@ -514,16 +514,3 @@ class="permalink" rel="bookmark"
 title="Permalink to On archives, libraries and… astrology.">Permalink</a>[Leave
 a
 comment](https://web.archive.org/web/20150523035213/http://altbibl.io/gazette/on-archives-libraries-and-astrology/#respond "Comment on On archives, libraries and… astrology.")
-
-# Post navigation
-
-<a
-href="https://web.archive.org/web/20150523035213/http://altbibl.io/gazette/journal-of-williamina-paton-fleming-curator-of-astronomical-photographs-harvard-college-observatory/"
-rel="prev"><span class="meta-nav">←</span> Journal of Williamina Paton
-Fleming Curator of Astronomical Photographs. Harvard College
-Observatory</a>
-
-<a
-href="https://web.archive.org/web/20150523035213/http://altbibl.io/gazette/workshop-on-shared-curation-of-the-astronomical-literature/"
-rel="next">Workshop on Shared Curation of the Astronomical Literature
-<span class="meta-nav">→</span></a>
